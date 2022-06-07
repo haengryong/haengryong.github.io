@@ -29,12 +29,10 @@
 
 ![2번 이미지](https://t1.daumcdn.net/cfile/tistory/9916D4385AAB30482F)
 
-빨간색 버튼을 누르면 패킷 캡쳐가 멈추게 된다.
+빨간색 버튼을 누르면 패킷 캡쳐가 멈추게 됩니다.
 
 ![3번 이미지](https://t1.daumcdn.net/cfile/tistory/99AB1D385AAB304835)
 
-중지한 패킷을 다시 캡쳐하고 싶을땐 초록색 버튼을 누르면 된다.
+중지한 패킷을 다시 캡쳐하고 싶을땐 초록색 버튼을 누르면 됩니다.
 
 
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
