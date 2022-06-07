@@ -45,5 +45,11 @@
 
 ![6번 이미지](https://t1.daumcdn.net/cfile/tistory/9915F6465AAB374C18)
 
+HTTP 를 선택합니다.
+
+![7번](https://t1.daumcdn.net/cfile/tistory/99316F4E5AAB379407)
+
+HTTP Objects list를 보면 Content Type에 무슨 파일인지 확장자가 적혀있기때문에 분석시에 유용합니다.
+
 
 
