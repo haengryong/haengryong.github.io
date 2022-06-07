@@ -1,5 +1,5 @@
 # Network packet analysis 
-
+> generate and matain by haengryong
 
 ### 0. 들어가기 앞서
 이 홈페이지는 제가 이번 VMT 과제를 진행하면서 조사한 네트워크 패킷 분석 방법과, 제 나름대로의 분석 결과를 포함하고 있는 결과물입니다.
@@ -27,6 +27,14 @@
 
 분석 하고자 하는 네트워크를 클릭한 뒤 **start** 버튼을 누르면 실시간으로 패킷 정보를 확인할 수 있습니다.
 
-### Support or Contact
+![2번 이미지](https://t1.daumcdn.net/cfile/tistory/9916D4385AAB30482F)
+
+빨간색 버튼을 누르면 패킷 캡쳐가 멈추게 된다.
+
+![3번 이미지](https://t1.daumcdn.net/cfile/tistory/99AB1D385AAB304835)
+
+중지한 패킷을 다시 캡쳐하고 싶을땐 초록색 버튼을 누르면 된다.
+
+
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
