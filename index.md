@@ -11,9 +11,9 @@
 
 100MB크기의 데이터를 전송하고자 할때 분할된 형태가아닌 파일 통째로 보냈다고 가정해봅시다. 
 
-100MB크기의 파일을 아무런 오류없이 전송이 되었다면 다행이겠지만, 전송도중 잘못된 데이터가 1개만 끼어도 오류가 발생하기 때문에 처음부터 다시 100MB를 전송해야 합니다. 
+100MB크기의 파일을 아무런 오류없이 전송이 되었다면 다행이겠지만, 전송도중 잘못된 데이터가 1개만 잘못 되어도 오류가 발생하기 때문에 처음부터 다시 100MB를 전송해야 합니다. 
 
-하지만 이 패킷을 이용해 파일을 1MB씩 나누어 전송하면, 1번 패킷 전송 - 수신 체크 2번 패킷전송 - 수신체크 이러한 과정을 100번하게 되는데 만일 중간에 오류가 나면 그 번호의 패킷만 재전송하면 되므로 전자에훨씬 효율적이라고 할 수 있습니다.
+하지만 이 패킷을 이용해 파일을 1MB씩 나누어 전송하면, 1번 패킷 전송 - 수신체크 이러한 과정을 100번하게 되는데, 만일 중간에 오류가 나면 그 번호의 패킷만 재전송하면 되므로 전자에훨씬 효율적이라고 할 수 있습니다.
 
 ### 2. wireshark
 가장 범용적으로 사용되는 네트워크 패킷 분석 툴 입니다.
@@ -21,11 +21,11 @@
 
 ![This is an image](https://www.wireshark.org/assets/theme-2015/images/wireshark_logo.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
 ### 2-1. wireshark 사용법
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haengryong/haengryong.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![1번 이미지](https://t1.daumcdn.net/cfile/tistory/994F0C3E5AAB2FA005)
+
+분석 하고자 하는 네트워크를 클릭한 뒤 **start** 버튼을 누르면 실시간으로 패킷 정보를 확인할 수 있습니다.
 
 ### Support or Contact
 
