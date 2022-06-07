@@ -52,3 +52,9 @@ HTTP 를 선택합니다.
 HTTP Objects list를 보면 Content Type에 무슨 파일인지 확장자가 적혀있기때문에 분석시에 유용합니다.
 
 ### 2-2 [Statistics] - [Conversation]
+
+![](https://t1.daumcdn.net/cfile/tistory/995062425AAB383008)
+
+![](https://t1.daumcdn.net/cfile/tistory/99C915425AAB383010)
+
+Conversation은 두 호스트 사이의 트래픽을 뜻하고, 각 탭의 프로토콜 명 옆에 있는 숫자는 Conversation의 수를 나타냅니다.이 중 TCP, UDP의 경우 밑에 Follow Stream를 통해 더 많은 정보를 얻을 수 있습니다.
