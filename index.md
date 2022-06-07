@@ -1,5 +1,5 @@
 # Network packet analysis 
-> generate and matain by haengryong
+> generate and matain by 김행룡
 
 ### 0. 들어가기 앞서
 이 홈페이지는 제가 이번 VMT 과제를 진행하면서 조사한 네트워크 패킷 분석 방법과, 제 나름대로의 분석 결과를 포함하고 있는 결과물입니다.
@@ -34,5 +34,16 @@
 ![3번 이미지](https://t1.daumcdn.net/cfile/tistory/99AB1D385AAB304835)
 
 중지한 패킷을 다시 캡쳐하고 싶을땐 초록색 버튼을 누르면 됩니다.
+
+![4번 이미지](https://t1.daumcdn.net/cfile/tistory/99EC1B395AAB32F20B)
+
+이 영역은 Packet Details 영역으로 전송되는 패킷의 세부 정보들을 볼 수 있습니다.
+
+![5번 이미지](https://t1.daumcdn.net/cfile/tistory/9989B43D5AAB333433)
+
+해당 영역은 Packet bytes 로 패킷의 내용을 16진수로 표현한 것 입니다.
+
+![6번 이미지](https://t1.daumcdn.net/cfile/tistory/9915F6465AAB374C18)
+
 
 
